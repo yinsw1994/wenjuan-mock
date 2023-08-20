@@ -1,0 +1,27 @@
+{
+  "name": "wenjuan-mock",
+  "version": "1.0.0",
+  "description": "mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinsw1994/wenjuan-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinsw1994/wenjuan-mock/issues"
+  },
+  "homepage": "https://github.com/yinsw1994/wenjuan-mock#readme",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.0",
+    "mockjs": "^1.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
